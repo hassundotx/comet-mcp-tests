@@ -1,0 +1,9 @@
+:~  title+'Comet MCP Tests'
+    info+'Minimum viable Gall app for comet MCP testing.'
+    color+0x2f.6f6d
+    site+/comet-mcp-tests
+    base+'comet-mcp-tests'
+    version+[0 0 1]
+    website+'https://urbit.org'
+    license+'MIT'
+==
